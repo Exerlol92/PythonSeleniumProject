@@ -1,0 +1,321 @@
+03/14/2020 03:14:45 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/14/2020 03:14:45 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/14/2020 03:14:47 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/14/2020 03:14:47 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/14/2020 03:14:47 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/14/2020 03:14:47 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/14/2020 03:14:47 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+03/14/2020 03:14:52 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+03/14/2020 03:14:52 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/14/2020 03:14:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/14/2020 03:14:52 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/14/2020 03:14:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/14/2020 03:14:54 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+03/14/2020 03:14:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+03/14/2020 03:14:54 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/14/2020 03:14:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/14/2020 03:15:01 PM - RegisterCoursesPage - ERROR: Element not found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: id
+03/14/2020 03:15:04 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/14/2020 03:15:05 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/14/2020 03:15:08 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/14/2020 03:15:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/14/2020 03:15:11 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/14/2020 03:15:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/14/2020 03:15:11 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/14/2020 03:15:14 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/14/2020 03:15:14 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+03/14/2020 03:15:14 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/14/2020 03:20:26 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/14/2020 03:20:26 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/14/2020 03:20:29 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/14/2020 03:20:29 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/14/2020 03:20:29 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/14/2020 03:20:30 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/14/2020 03:20:30 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+03/14/2020 03:20:34 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+03/14/2020 03:20:34 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/14/2020 03:20:34 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/14/2020 03:20:34 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/14/2020 03:20:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/14/2020 03:20:35 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+03/14/2020 03:20:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+03/14/2020 03:20:36 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/14/2020 03:20:40 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/14/2020 03:20:40 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/14/2020 03:20:40 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/14/2020 03:20:44 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/14/2020 03:20:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/14/2020 03:20:47 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/14/2020 03:20:47 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/14/2020 03:20:50 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/14/2020 03:20:50 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/14/2020 03:20:50 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/14/2020 03:20:53 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/14/2020 03:20:54 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is enabled
+03/14/2020 03:20:54 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/14/2020 03:20:54 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2020 01:37:59 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/19/2020 01:37:59 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/19/2020 01:38:02 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/19/2020 01:38:02 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/19/2020 01:38:02 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/19/2020 01:38:02 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/19/2020 01:38:02 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+03/19/2020 01:38:06 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+03/19/2020 01:38:06 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/19/2020 01:38:07 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/19/2020 01:38:07 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/19/2020 01:38:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/19/2020 01:38:08 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+03/19/2020 01:38:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+03/19/2020 01:38:09 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/19/2020 01:38:15 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/19/2020 01:38:15 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/19/2020 01:38:15 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/19/2020 01:38:18 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/19/2020 01:38:18 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/19/2020 01:38:21 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/19/2020 01:38:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/19/2020 01:38:24 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/19/2020 01:38:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/19/2020 01:38:24 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/19/2020 01:38:27 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/19/2020 01:38:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/19/2020 01:38:27 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/19/2020 01:38:28 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/19/2020 01:38:28 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/19/2020 01:38:28 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/19/2020 01:38:28 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/19/2020 01:38:28 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/19/2020 01:38:28 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2020 01:57:02 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/19/2020 01:57:02 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/19/2020 01:57:06 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/19/2020 01:57:06 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/19/2020 01:57:06 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/19/2020 01:57:06 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/19/2020 01:57:06 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+03/19/2020 01:57:10 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+03/19/2020 01:57:10 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/19/2020 01:57:10 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/19/2020 01:57:10 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/19/2020 01:57:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/19/2020 01:57:11 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),' JavaScript for beginners')] and  locatorType: xpath
+03/19/2020 01:57:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),' JavaScript for beginners')] locatorType: xpath
+03/19/2020 01:57:13 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/19/2020 01:57:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/19/2020 01:57:17 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/19/2020 01:57:17 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/19/2020 01:57:20 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/19/2020 01:57:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/19/2020 01:57:23 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/19/2020 01:57:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/19/2020 01:57:27 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/19/2020 01:57:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/19/2020 01:57:27 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/19/2020 01:57:30 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/19/2020 01:57:30 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/19/2020 01:57:30 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2020 01:57:36 PM - RegisterCoursesPage - ERROR: Element not found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/19/2020 01:57:36 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@id='search-courses'] locatorType: xpath
+03/19/2020 01:57:40 PM - RegisterCoursesPage - ERROR: Element not found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/19/2020 01:57:40 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/19/2020 01:57:43 PM - RegisterCoursesPage - ERROR: Element not found with locator: //div[contains(text(),' Learn Python 3 from scratch')] and  locatorType: xpath
+03/19/2020 01:57:43 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(text(),' Learn Python 3 from scratch')] locatorType: xpath
+03/19/2020 01:57:46 PM - RegisterCoursesPage - ERROR: Element not found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/19/2020 01:57:46 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/19/2020 01:57:46 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/19/2020 01:57:46 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/19/2020 01:57:49 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/19/2020 01:57:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/19/2020 01:57:52 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/19/2020 01:57:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/19/2020 01:57:55 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/19/2020 01:57:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/19/2020 01:57:55 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/19/2020 01:57:58 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/19/2020 01:57:58 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/19/2020 01:57:58 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2020 02:00:42 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/19/2020 02:00:42 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/19/2020 02:00:45 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/19/2020 02:00:45 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/19/2020 02:00:45 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/19/2020 02:00:45 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/19/2020 02:00:45 PM - LoginPage - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+03/19/2020 02:00:48 PM - LoginPage - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+03/19/2020 02:00:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/19/2020 02:00:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/19/2020 02:00:49 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/19/2020 02:00:49 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/19/2020 02:00:49 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),' JavaScript for beginners')] and  locatorType: xpath
+03/19/2020 02:00:49 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),' JavaScript for beginners')] locatorType: xpath
+03/19/2020 02:00:50 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/19/2020 02:00:55 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/19/2020 02:00:55 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/19/2020 02:00:55 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/19/2020 02:00:58 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/19/2020 02:00:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/19/2020 02:01:02 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/19/2020 02:01:02 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/19/2020 02:01:05 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/19/2020 02:01:05 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/19/2020 02:01:05 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/19/2020 02:01:08 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/19/2020 02:01:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/19/2020 02:01:08 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/19/2020 02:01:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/19/2020 02:01:09 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/19/2020 02:01:09 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/19/2020 02:01:09 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/19/2020 02:01:09 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/19/2020 02:01:09 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2020 02:01:10 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/19/2020 02:01:10 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/19/2020 02:01:10 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/19/2020 02:01:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/19/2020 02:01:11 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),' Learn Python 3 from scratch')] and  locatorType: xpath
+03/19/2020 02:01:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),' Learn Python 3 from scratch')] locatorType: xpath
+03/19/2020 02:01:12 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/19/2020 02:01:16 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/19/2020 02:01:16 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/19/2020 02:01:16 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/19/2020 02:01:19 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/19/2020 02:01:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/19/2020 02:01:23 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/19/2020 02:01:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/19/2020 02:01:26 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/19/2020 02:01:26 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/19/2020 02:01:26 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/19/2020 02:01:29 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/19/2020 02:01:29 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/19/2020 02:01:29 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/20/2020 02:19:22 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/20/2020 02:19:22 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/20/2020 02:19:25 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/20/2020 02:19:25 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/20/2020 02:19:25 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/20/2020 02:19:25 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/20/2020 02:19:25 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/20/2020 02:19:29 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+03/20/2020 02:19:29 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/20/2020 02:19:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/20/2020 02:19:29 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/20/2020 02:19:31 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/20/2020 02:19:31 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),' JavaScript for beginners')] and  locatorType: xpath
+03/20/2020 02:19:31 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),' JavaScript for beginners')] locatorType: xpath
+03/20/2020 02:19:32 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/20/2020 02:19:36 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/20/2020 02:19:36 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/20/2020 02:19:36 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/20/2020 02:19:39 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/20/2020 02:19:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/20/2020 02:19:42 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/20/2020 02:19:42 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/20/2020 02:19:45 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/20/2020 02:19:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/20/2020 02:19:46 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/20/2020 02:19:49 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/20/2020 02:19:49 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/20/2020 02:19:49 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/20/2020 02:19:50 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+03/20/2020 02:19:50 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+03/20/2020 02:19:50 PM - RegisterCoursesPage - INFO: Element found with locator: //*[@id="search-course-button"]/i and  locatorType: xpath
+03/20/2020 02:19:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //*[@id="search-course-button"]/i locatorType: xpath
+03/20/2020 02:19:51 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),' Learn Python 3 from scratch')] and  locatorType: xpath
+03/20/2020 02:19:52 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),' Learn Python 3 from scratch')] locatorType: xpath
+03/20/2020 02:19:53 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+03/20/2020 02:19:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+03/20/2020 02:19:58 PM - RegisterCoursesPage - INFO: Element found with locator: //h2[contains(text(),'Payment Information')] and  locatorType: xpath
+03/20/2020 02:19:58 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //h2[contains(text(),'Payment Information')] locatorType: xpath
+03/20/2020 02:20:01 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cardnumber'] and  locatorType: xpath
+03/20/2020 02:20:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cardnumber'] locatorType: xpath
+03/20/2020 02:20:04 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='exp-date'] and  locatorType: xpath
+03/20/2020 02:20:04 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='exp-date'] locatorType: xpath
+03/20/2020 02:20:07 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='cvc'] and  locatorType: xpath
+03/20/2020 02:20:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='cvc'] locatorType: xpath
+03/20/2020 02:20:08 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@id='country_code_credit_card-cc'] and  locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Element found with locator: //span[@class='InputContainer']//input[@name='postal'] and  locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //span[@class='InputContainer']//input[@name='postal'] locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/20/2020 02:20:11 PM - RegisterCoursesPage - INFO: Element :: 'Verification of Enroll Button' is not enabled
+03/20/2020 02:20:11 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Negative Test Case
+03/20/2020 02:20:11 PM - Status - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/20/2020 02:20:21 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/20/2020 02:20:21 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/20/2020 02:20:25 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/20/2020 02:20:25 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/20/2020 02:20:25 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/20/2020 02:20:25 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/20/2020 02:20:25 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/20/2020 02:20:28 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+03/20/2020 02:20:28 PM - NavigationPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/20/2020 02:20:29 PM - NavigationPage - INFO: Element appeared on the web page
+03/20/2020 02:20:29 PM - NavigationPage - INFO: Clicked on element with locator:  locatorType: id
+03/20/2020 02:20:29 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/20/2020 02:20:29 PM - LoginPage - INFO: Element appeared on the web page
+03/20/2020 02:20:31 PM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+03/20/2020 02:20:31 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/20/2020 02:20:31 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/20/2020 02:20:33 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/20/2020 02:20:33 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/20/2020 02:20:33 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/20/2020 02:20:33 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/20/2020 02:20:33 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/20/2020 02:20:35 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+03/20/2020 02:20:35 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+03/20/2020 02:20:35 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+03/20/2020 02:20:38 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+03/20/2020 02:20:38 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+03/20/2020 02:20:38 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/20/2020 02:20:38 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/20/2020 02:20:38 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/20/2020 02:20:38 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/20/2020 02:20:38 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/20/2020 02:20:41 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+03/20/2020 02:20:41 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+03/20/2020 02:20:41 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+03/20/2020 02:20:41 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+03/20/2020 02:20:41 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+03/20/2020 02:20:41 PM - LoginPage - INFO: Element found with locator: //div[@id='navbar']//li[@class='dropdown'] and  locatorType: xpath
+03/20/2020 02:20:41 PM - LoginPage - INFO: Element present with locator: //div[@id='navbar']//li[@class='dropdown'] locatorType: xpath
+03/20/2020 02:20:41 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+03/20/2020 02:20:41 PM - Status - INFO: test_validLogin ### TEST SUCCESSFUL
